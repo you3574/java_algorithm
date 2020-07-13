@@ -13,7 +13,7 @@ public class number10845 {
 			String s=sc.next();
 			if(s.equals("push")) {
 				num=sc.nextInt();
-				qu.
+				qu.offer(num);
 			}else if(s.equals("front")) {
 				System.out.println(qu.isEmpty()?-1:qu.peek());
 			}else if(s.equals("back")) {
