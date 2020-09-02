@@ -28,7 +28,7 @@ public class number1215 {
 			for(int i=0; i<8; i++) {
 				for(int j=0; j<8; j++) {
 					//1번째랑 n번째 요소가 같을 때
-					if()
+				//	if()
 					
 					
 					int loop=1;
